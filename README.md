@@ -1,6 +1,6 @@
 # VisualizationPowerBI_DataStoreAmerica
 ## [Data](https://github.com/Malona-Hutabarat/SuperstoreAmerica/blob/main/Superstore.xlsx)
-![PowerB11_page-0001](https://github.com/Malona-Hutabarat/VisualizationPowerBI_DataStoreAmerica/assets/155244722/42a3ca56-d310-4039-925a-29ce1883a9df)
+![storeamerica_page-0001](https://github.com/Malona-Hutabarat/VisualizationPowerBI_DataStoreAmerica/assets/155244722/e3d56f40-db8f-4b53-8aa2-bc6c0b790165)
 
 ## 1. Sub_Category Sale
 ![image](https://github.com/Malona-Hutabarat/VisualizationPowerBI_DataStoreAmerica/assets/155244722/a0783b6a-991f-4557-9aa8-87e8e282add6)
